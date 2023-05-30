@@ -1,0 +1,211 @@
+@media screen and (min-width:1000px)and (max-width:1200px){
+   
+   .build-community{
+    padding: 2rem 9rem;
+   }
+   .build-para{
+    font-size: 1rem;
+   }
+   .build-btn{
+    padding: 1rem 2.5rem;
+   }
+   .h-primary{
+    font-size: 2rem;
+   }
+
+
+   .heading-secondary{
+    font-size: 2.5rem;
+   }
+   .para-secondary{
+    font-size: 1rem;
+   }
+
+
+   /* build button */
+   .h-primary-1{
+    font-size: 2.5rem;
+   }
+
+
+
+
+   /* footer  */
+   input{
+    width: 15rem;
+   }
+   .btn{
+    font-size: 1rem;
+    padding: 0.7rem 1rem;
+   }
+   .footer-heading{
+    font-size: 4rem;
+   }
+   .right{
+    padding:  2.5rem 2rem;
+   }
+   .footer-para{
+    margin-top: 0re,;
+   }
+}
+@media screen and (min-width:600px) and (max-width:1000px){
+   .build-community{
+    padding: 2rem 4rem;
+   }
+   .h-primary{
+    font-size: 1.5rem;
+   }
+   .build-para{
+    font-size: .9rem;
+   }
+   .build-btn{
+    padding: .8rem 1.5rem;
+   }
+   .build-img{
+    width: 100%;
+   }
+   /* build-community */
+   .heading-secondary{
+    font-size: 1.9rem;
+   }
+   .para-secondary{
+    font-size: .8rem;
+   }
+   .groww-1{
+    align-items: baseline;
+   }
+
+
+
+   /* footer */
+   .left{
+    padding: 3rem 2rem;
+   }
+   .footer-heading{
+    font-size: 3rem;
+   }
+
+   .right{
+    padding: 2.2rem 2rem;
+   }
+   .footer__head{
+    font-size: 2.4rem;
+   }
+   .footer-para-1{
+    margin-top: 0rem;
+   }
+   input{
+    width: 16rem;
+   }
+}
+
+
+@media screen and (min-width:300px)and (max-width:600px){
+    #navbar{
+        
+    }
+    .logo{
+        margin-left: 0.3rem;
+        width: 8rem;
+    }
+    .btn-try{
+        padding: .5rem 1rem;
+        font-size: .6rem;
+        margin-right: .5rem;
+    }
+   
+    .build-community{
+        padding:  0rem;
+    }
+    .h-primary{
+        font-size: 1rem;
+        font-weight: bolder;
+    }
+    .build-para{
+        font-size: .7rem;
+        padding: 0rem 3rem;
+    }
+    .build-img{
+        width: 80vw;
+        height: 50vh;
+    }
+    .h-primary-1{
+        font-size: 1.5rem;
+    }
+    /* Groww-together */
+    .heading-secondary{
+      font-size: 1.7rem;
+    }
+    .para-secondary{
+        font-size: .8rem;
+        text-align: center;
+
+    }
+    .Groww-together{
+        flex-direction: column;
+    }
+    .groww-1{
+        order: 2;
+        align-items: center;
+    }
+    .groww{
+        padding: 1rem;
+        /* align-items: center; */
+    }
+     .groww-img{
+        width: 70vw;
+     }
+     .flow{
+        font-size:1.2rem ;
+     }
+
+    /* footer */
+    .left{
+        padding: 1rem ;
+    }
+    .footer-heading{
+        font-size: 1.5rem;
+    }
+    .footer-para{
+        font-size: .7rem;
+    }
+    .footer-content-text{
+        margin-top: -.1rem;
+        height: 45vh;
+    }
+
+    .right{
+        padding: 0rem .2rem;
+    }
+    .footer__head{
+        font-size: 1rem;
+    }
+    .footer-para-1{
+        margin-top: .4rem;
+        font-size: .7rem;
+    }
+    .input{
+        display:block;
+    }
+    input{
+        width: 9rem;
+        margin-top: 1rem;
+        height: 1.8rem;
+    }
+    .btn{
+        margin-top:.5rem;
+        font-size: .4rem;
+        padding: 0.4rem .7rem;
+    }
+    .contact{
+        font-size: .46rem;
+        margin-top: .6rem;
+    }
+    .build-btn{
+        padding: .5rem 1rem;
+        font-size: .7rem;
+    }
+    .ready{
+        height: 30vh;
+    }
+}
